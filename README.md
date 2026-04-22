@@ -1,58 +1,64 @@
-# 👋 Hi, I'm Karan K
+<div align="center">
 
-🎓 B.Tech Student (Information Science Engineering)
-💡 Machine Learning Enthusiast | Backend Developer
+# KARAN K
 
----
+**Machine Learning Enthusiast | Backend Developer**
 
-## 🚀 About Me
+*Building intelligent systems and scalable backend solutions.*
 
-* Passionate about **Machine Learning and Backend Development**
-* Currently exploring **AI systems and real-world applications**
-* Interested in building **scalable and intelligent solutions**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/03karan-k)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-000000?style=for-the-badge\&logo=github)](https://github.com/Karan11103/k)
+[![Email](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge\&logo=gmail)](mailto:karan226.k@gmail.com)
 
----
+<br>
 
-## 🛠️ Skills
+![Profile Views](https://komarev.com/ghpvc/?username=Karan11103\&style=for-the-badge\&color=blue)
+![Followers](https://img.shields.io/github/followers/Karan11103?style=for-the-badge)
 
-**Languages:** Python, C++, JavaScript, HTML, CSS
-**Frameworks & Libraries:** React, Next.js, scikit-learn, TensorFlow.js
-**Databases:** MySQL
-**Tools:** Git, GitHub, VS Code
+</div>
 
 ---
 
-## 📂 Projects
+## 👨‍💻 Profile
 
-### 🔹 InsightDesk AI
-
-* Built an AI-based Quality Orchestration Platform
-* Focused on **agentic reasoning, real-time voice processing, and self-healing systems**
-* Developed backend using **Python and FastAPI**
+Computer Science student focused on **Machine Learning and Backend Development**, with experience building **AI-driven systems and scalable applications**.
 
 ---
 
-### 🔹 Personal Portfolio Website
+## 🛠️ Tech Stack
 
-* Designed a responsive portfolio using **HTML, CSS, JavaScript**
-* Showcases projects, skills, and contact details
-* Deployed using GitHub Pages
-
----
-
-## 📜 Certifications
-
-* Data Science Certification — IIT Bombay (2025)
-* Google: Get Started with Python (Coursera)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 ---
 
-## 📫 Connect with Me
+## 🚀 Project
 
-* 📧 Email: [karan226.k@gmail.com](mailto:karan226.k@gmail.com)
-* 💻 GitHub: https://github.com/Karan11103/k
-* 🔗 LinkedIn: https://www.linkedin.com/in/03karan-k
+**InsightDesk AI** – AI-based platform with **agentic reasoning, real-time processing, and self-healing systems**, built using Python and FastAPI.
 
 ---
 
-⭐ *Always learning, building, and improving...*
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Karan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karan11103\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karan11103\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Karan11103\&theme=tokyonight\&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*Learning. Building. Growing.* 🚀
+
+</div>
